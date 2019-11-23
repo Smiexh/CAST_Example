@@ -38,9 +38,9 @@ int main(){
 
     //读取成员的值
     printf("ID    :  %s\n"    , stu_info_1.ID);
-    printf("name  :  %s\n"  , stu_info_1.name);
-    printf("age   :  %d\n"   , stu_info_1.age);
-    printf("score :  %f\n" , stu_info_1.score);
+    printf("name  :  %s\n"    , stu_info_1.name);
+    printf("age   :  %d\n"    , stu_info_1.age);
+    printf("score :  %f\n"    , stu_info_1.score);
 
     return 0;
 }
